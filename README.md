@@ -1,6 +1,6 @@
-# Customer Information Software
+# Customer Information Management System
 
-The customer information is a very simple Java project, it runs through the command line.
+The customer information management system is a very simple Java project, it runs through the command line.
 
 I did this project just to review the basic Java knowledge.
 
